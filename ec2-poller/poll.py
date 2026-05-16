@@ -120,17 +120,25 @@ def parse_atom_entries(xml_bytes):
 
 
 def fire_routine(env, payload):
+    """POST to the Cloud Routine /fire endpoint. The API wraps the inner payload as a JSON
+    string inside the 'text' field; anthropic-version header is required."""
     url = env["LEOPOLD_ROUTINE_URL"]
     token = env["LEOPOLD_ROUTINE_TOKEN"]
-    body = json.dumps(payload).encode("utf-8")
+    body = json.dumps({"text": json.dumps(payload)}).encode("utf-8")
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type": "application/json",
+        "anthropic-version": "2023-06-01",
     }
     log(f"firing routine for {payload['accession_no']} ({payload['filing_type']})")
     try:
-        resp = http_post(url, body, headers, timeout=30)
-        log(f"  routine fire response: {resp[:200]!r}")
+        raw = http_post(url, body, headers, timeout=30)
+        try:
+            resp = json.loads(raw)
+            sid = resp.get("claude_code_session_id")
+            log(f"  routine fired, session={sid}")
+        except Exception:
+            log(f"  routine fired, raw response: {raw[:200]!r}")
         return True
     except Exception as e:
         log(f"  ERROR firing routine: {e}")
