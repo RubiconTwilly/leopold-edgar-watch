@@ -1,0 +1,800 @@
+{
+  "CEG|SH": {
+    "ticker": "CEG",
+    "pos_type": "SH",
+    "name": "CONSTELLATION ENERGY CORP",
+    "quarters": {
+      "Q4_2024": {
+        "shares": 96400,
+        "value": 21565644
+      },
+      "Q1_2025": {
+        "shares": 183400,
+        "value": 36978942
+      },
+      "Q2_2025": {
+        "shares": 319200,
+        "value": 103024992
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": {
+      "avg_cost": 259.8316478696742,
+      "total_invested": 82938262.0,
+      "shares_accumulated": 319200
+    }
+  },
+  "MOD|SH": {
+    "ticker": "MOD",
+    "pos_type": "SH",
+    "name": "MODINE MFG CO",
+    "quarters": {
+      "Q4_2024": {
+        "shares": 66367,
+        "value": 7693926
+      },
+      "Q1_2025": {
+        "shares": 716824,
+        "value": 55016242
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": null
+  },
+  "MRT|SH": {
+    "ticker": "MRT",
+    "pos_type": "SH",
+    "name": "MARVELL TECHNOLOGY INC",
+    "quarters": {
+      "Q4_2024": {
+        "shares": 785896,
+        "value": 86802213
+      }
+    },
+    "first_seen": "Q4_2024",
+    "cost_basis": null
+  },
+  "UNK_87422Q|SH": {
+    "ticker": "UNK_87422Q",
+    "pos_type": "SH",
+    "name": "TALEN ENERGY CORP",
+    "quarters": {
+      "Q4_2024": {
+        "shares": 138878,
+        "value": 27979751
+      },
+      "Q1_2025": {
+        "shares": 148395,
+        "value": 29630030
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": null
+  },
+  "VKTX|SH": {
+    "ticker": "VKTX",
+    "pos_type": "SH",
+    "name": "VERTIV HOLDINGS CO",
+    "quarters": {
+      "Q4_2024": {
+        "shares": 455146,
+        "value": 51709137
+      }
+    },
+    "first_seen": "Q4_2024",
+    "cost_basis": null
+  },
+  "VST|SH": {
+    "ticker": "VST",
+    "pos_type": "SH",
+    "name": "VISTRA CORP",
+    "quarters": {
+      "Q4_2024": {
+        "shares": 428397,
+        "value": 59063094
+      },
+      "Q1_2025": {
+        "shares": 525846,
+        "value": 61755354
+      },
+      "Q2_2025": {
+        "shares": 1274178,
+        "value": 246948438
+      },
+      "Q3_2025": {
+        "shares": 1287910,
+        "value": 252327327
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": {
+      "avg_cost": 169.44670303825578,
+      "total_invested": 218232103.31,
+      "shares_accumulated": 1287910
+    }
+  },
+  "APLD|SH": {
+    "ticker": "APLD",
+    "pos_type": "SH",
+    "name": "Applied Digital Corp",
+    "quarters": {
+      "Q1_2025": {
+        "shares": 4035600,
+        "value": 22680072
+      },
+      "Q2_2025": {
+        "shares": 6591800,
+        "value": 66379426
+      },
+      "Q3_2025": {
+        "shares": 6064155,
+        "value": 139111716
+      },
+      "Q4_2025": {
+        "shares": 11339060,
+        "value": 278033751
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": {
+      "avg_cost": 14.979868177392124,
+      "total_invested": 177761676.6,
+      "shares_accumulated": 11866705
+    }
+  },
+  "AVGO|SH": {
+    "ticker": "AVGO",
+    "pos_type": "SH",
+    "name": "Broadcom Inc",
+    "quarters": {
+      "Q1_2025": {
+        "shares": 700000,
+        "value": 117201000
+      },
+      "Q2_2025": {
+        "shares": 1191606,
+        "value": 328466194
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": {
+      "avg_cost": 212.07697334521643,
+      "total_invested": 252712193.89999998,
+      "shares_accumulated": 1191606
+    }
+  },
+  "CORZ|SH": {
+    "ticker": "CORZ",
+    "pos_type": "SH",
+    "name": "Core Scientific Inc New",
+    "quarters": {
+      "Q1_2025": {
+        "shares": 4521578,
+        "value": 32736225
+      },
+      "Q2_2025": {
+        "shares": 7994038,
+        "value": 136458229
+      },
+      "Q3_2025": {
+        "shares": 20180534,
+        "value": 362038780
+      },
+      "Q4_2025": {
+        "shares": 28756478,
+        "value": 418694320
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": {
+      "avg_cost": 15.144504128774045,
+      "total_invested": 435502599.8,
+      "shares_accumulated": 28756478
+    }
+  },
+  "CRWV|SH": {
+    "ticker": "CRWV",
+    "pos_type": "SH",
+    "name": "CoreWeave Inc",
+    "quarters": {
+      "Q1_2025": {
+        "shares": 1225000,
+        "value": 45423000
+      },
+      "Q3_2025": {
+        "shares": 4115456,
+        "value": 563200154
+      },
+      "Q4_2025": {
+        "shares": 6098812,
+        "value": 436735927
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": {
+      "avg_cost": 102.49461301846634,
+      "total_invested": 750651276.76,
+      "shares_accumulated": 7323812
+    }
+  },
+  "EQT|SH": {
+    "ticker": "EQT",
+    "pos_type": "SH",
+    "name": "EQT Corp",
+    "quarters": {
+      "Q1_2025": {
+        "shares": 989398,
+        "value": 52863535
+      },
+      "Q2_2025": {
+        "shares": 2145345,
+        "value": 125116520
+      },
+      "Q3_2025": {
+        "shares": 1217386,
+        "value": 66262320
+      },
+      "Q4_2025": {
+        "shares": 2482225,
+        "value": 133047260
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": null
+  },
+  "IREN|SH": {
+    "ticker": "IREN",
+    "pos_type": "SH",
+    "name": "IREN Limited",
+    "quarters": {
+      "Q1_2025": {
+        "shares": 3366130,
+        "value": 20499732
+      },
+      "Q2_2025": {
+        "shares": 6400384,
+        "value": 93253595
+      },
+      "Q3_2025": {
+        "shares": 7220421,
+        "value": 338854358
+      },
+      "Q4_2025": {
+        "shares": 8700621,
+        "value": 328622455
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": {
+      "avg_cost": 18.28608588858198,
+      "total_invested": 159100302.89000002,
+      "shares_accumulated": 8700621
+    }
+  },
+  "INTC|Call": {
+    "ticker": "INTC",
+    "pos_type": "Call",
+    "name": "Intel Corp",
+    "quarters": {
+      "Q1_2025": {
+        "shares": 20237400,
+        "value": 459591354
+      },
+      "Q2_2025": {
+        "shares": 20237400,
+        "value": 453317760
+      },
+      "Q3_2025": {
+        "shares": 20237400,
+        "value": 678964770
+      },
+      "Q4_2025": {
+        "shares": 20237400,
+        "value": 746760060
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": null
+  },
+  "UNK_683344|SH": {
+    "ticker": "UNK_683344",
+    "pos_type": "SH",
+    "name": "Onto Innovation Inc",
+    "quarters": {
+      "Q1_2025": {
+        "shares": 586717,
+        "value": 71192241
+      }
+    },
+    "first_seen": "Q1_2025",
+    "cost_basis": null
+  },
+  "SMH|Put": {
+    "ticker": "SMH",
+    "pos_type": "Put",
+    "name": "VANECK ETF TRUST",
+    "quarters": {
+      "Q2_2025": {
+        "shares": 2044100,
+        "value": 570058608
+      },
+      "Q3_2025": {
+        "shares": 600000,
+        "value": 195816000
+      }
+    },
+    "first_seen": "Q2_2025",
+    "cost_basis": null
+  },
+  "UNK_G11448|SH": {
+    "ticker": "UNK_G11448",
+    "pos_type": "SH",
+    "name": "BITDEER TECHNOLOGIES GROUP",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 929600,
+        "value": 15886864
+      },
+      "Q4_2025": {
+        "shares": 1788000,
+        "value": 20043480
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "BE|SH": {
+    "ticker": "BE",
+    "pos_type": "SH",
+    "name": "BLOOM ENERGY CORP",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 3048002,
+        "value": 43890344
+      },
+      "Q4_2025": {
+        "shares": 10076022,
+        "value": 875505552
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": {
+      "avg_cost": 86.1881987693159,
+      "total_invested": 868434186.9399999,
+      "shares_accumulated": 10076022
+    }
+  },
+  "BE|Call": {
+    "ticker": "BE",
+    "pos_type": "Call",
+    "name": "BLOOM ENERGY CORP",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 145800,
+        "value": 12330306
+      },
+      "Q4_2025": {
+        "shares": 408500,
+        "value": 35494565
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "AVGO|Put": {
+    "ticker": "AVGO",
+    "pos_type": "Put",
+    "name": "BROADCOM INC",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 230000,
+        "value": 75879300
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "CIFR|SH": {
+    "ticker": "CIFR",
+    "pos_type": "SH",
+    "name": "CIPHER MINING INC",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 5740493,
+        "value": 72272807
+      },
+      "Q4_2025": {
+        "shares": 10469093,
+        "value": 154523813
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": {
+      "avg_cost": 13.57012903314547,
+      "total_invested": 142066942.87,
+      "shares_accumulated": 10469093
+    }
+  },
+  "COHR|SH": {
+    "ticker": "COHR",
+    "pos_type": "SH",
+    "name": "COHERENT CORP",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 154400,
+        "value": 16631968
+      },
+      "Q4_2025": {
+        "shares": 480300,
+        "value": 88648971
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "CRWV|Put": {
+    "ticker": "CRWV",
+    "pos_type": "Put",
+    "name": "COREWEAVE INC",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 1400000,
+        "value": 191590000
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "CRWV|Call": {
+    "ticker": "CRWV",
+    "pos_type": "Call",
+    "name": "COREWEAVE INC",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 2314500,
+        "value": 316739325
+      },
+      "Q4_2025": {
+        "shares": 10814500,
+        "value": 774426345
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "GLXY|SH": {
+    "ticker": "GLXY",
+    "pos_type": "SH",
+    "name": "GALAXY DIGITAL INC.",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 2737500,
+        "value": 92554875
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "HUT|SH": {
+    "ticker": "HUT",
+    "pos_type": "SH",
+    "name": "HUT 8 CORP",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 599000,
+        "value": 20851190
+      },
+      "Q4_2025": {
+        "shares": 860200,
+        "value": 39517588
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": {
+      "avg_cost": 38.189627993489886,
+      "total_invested": 32850718.0,
+      "shares_accumulated": 860200
+    }
+  },
+  "LITE|SH": {
+    "ticker": "LITE",
+    "pos_type": "SH",
+    "name": "LUMENTUM HLDGS INC",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 417600,
+        "value": 67947696
+      },
+      "Q4_2025": {
+        "shares": 1298400,
+        "value": 478577256
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": {
+      "avg_cost": 302.3735120147874,
+      "total_invested": 392601768.0,
+      "shares_accumulated": 1298400
+    }
+  },
+  "MU|Put": {
+    "ticker": "MU",
+    "pos_type": "Put",
+    "name": "MICRON TECHNOLOGY INC",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 300000,
+        "value": 50196000
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "NVDA|Put": {
+    "ticker": "NVDA",
+    "pos_type": "Put",
+    "name": "NVIDIA CORPORATION",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 1600000,
+        "value": 298528000
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "UNK_767292|SH": {
+    "ticker": "UNK_767292",
+    "pos_type": "SH",
+    "name": "RIOT PLATFORMS INC",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 3592699,
+        "value": 68369062
+      },
+      "Q4_2025": {
+        "shares": 6167700,
+        "value": 78144759
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "SNDK|SH": {
+    "ticker": "SNDK",
+    "pos_type": "SH",
+    "name": "SANDISK CORP",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 115000,
+        "value": 12903000
+      },
+      "Q4_2025": {
+        "shares": 1054200,
+        "value": 250245996
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "STX|SH": {
+    "ticker": "STX",
+    "pos_type": "SH",
+    "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 48567,
+        "value": 11464726
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "SEI|SH": {
+    "ticker": "SEI",
+    "pos_type": "SH",
+    "name": "SOLARIS ENERGY INFRAS INC",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 1150300,
+        "value": 45977491
+      },
+      "Q4_2025": {
+        "shares": 1866500,
+        "value": 85803005
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "TSM|Put": {
+    "ticker": "TSM",
+    "pos_type": "Put",
+    "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 270000,
+        "value": 75408300
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "TSEM|SH": {
+    "ticker": "TSEM",
+    "pos_type": "SH",
+    "name": "TOWER SEMICONDUCTOR LTD",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 470600,
+        "value": 34024380
+      },
+      "Q4_2025": {
+        "shares": 723004,
+        "value": 84895130
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "WDC|SH": {
+    "ticker": "WDC",
+    "pos_type": "SH",
+    "name": "WESTERN DIGITAL CORP",
+    "quarters": {
+      "Q3_2025": {
+        "shares": 152821,
+        "value": 18347689
+      }
+    },
+    "first_seen": "Q3_2025",
+    "cost_basis": null
+  },
+  "BW|SH": {
+    "ticker": "BW",
+    "pos_type": "SH",
+    "name": "BABCOCK & WILCOX ENTERPRISES",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 1353900,
+        "value": 8583726
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "BITF|SH": {
+    "ticker": "BITF",
+    "pos_type": "SH",
+    "name": "BITFARMS LTD",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 6897100,
+        "value": 16208185
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "CLSK|SH": {
+    "ticker": "CLSK",
+    "pos_type": "SH",
+    "name": "CLEANSPARK INC",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 1640400,
+        "value": 16600848
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "EQT|Call": {
+    "ticker": "EQT",
+    "pos_type": "Call",
+    "name": "EQT CORP",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 700000,
+        "value": 37520000
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "INFY|Put": {
+    "ticker": "INFY",
+    "pos_type": "Put",
+    "name": "INFOSYS LTD",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 500000,
+        "value": 8910000
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "INTC|SH": {
+    "ticker": "INTC",
+    "pos_type": "SH",
+    "name": "INTEL CORP",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 1,
+        "value": 37
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": {
+      "avg_cost": 36.9,
+      "total_invested": 36.9,
+      "shares_accumulated": 1
+    }
+  },
+  "KRC|SH": {
+    "ticker": "KRC",
+    "pos_type": "SH",
+    "name": "KILROY RLTY CORP",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 1327700,
+        "value": 49616149
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "LBRT|SH": {
+    "ticker": "LBRT",
+    "pos_type": "SH",
+    "name": "LIBERTY ENERGY INC",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 567200,
+        "value": 10470512
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "PSIX|SH": {
+    "ticker": "PSIX",
+    "pos_type": "SH",
+    "name": "POWER SOLUTIONS INTL INC",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 432300,
+        "value": 24701622
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "PUMP|SH": {
+    "ticker": "PUMP",
+    "pos_type": "SH",
+    "name": "PROPETRO HLDG CORP",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 910300,
+        "value": 8656953
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "WYFI|SH": {
+    "ticker": "WYFI",
+    "pos_type": "SH",
+    "name": "WHITEFIBER INC",
+    "quarters": {
+      "Q4_2025": {
+        "shares": 1757600,
+        "value": 27770080
+      }
+    },
+    "first_seen": "Q4_2025",
+    "cost_basis": null
+  }
+}
