@@ -35,8 +35,7 @@ STATE_PATH = ROOT / "state.json"
 REPO_PATH = ROOT / "repo"  # local clone of leopold-edgar-watch
 ALERTS_DIR = REPO_PATH / "memory" / "alerts"
 LOG_PATH = ROOT / "poll.log"
-PUBLIC_HTML_DIR = Path("/var/www/html/leopold/alerts")  # served at rubiconbot.work/leopold/alerts/
-PUBLIC_HTML_URL = "https://rubiconbot.work/leopold/alerts"
+PUBLIC_HTML_URL = "https://rubicontwilly.github.io/leopold-edgar-watch/memory/alerts"  # served by GitHub Pages from the repo itself
 
 CIK = "0002045724"
 ATOM_URL = (
@@ -220,15 +219,8 @@ def telegram_edit(env, message_id, text):
 
 
 def publish_html(src_path, basename):
-    """Copy HTML to public webroot; return the public URL."""
-    try:
-        PUBLIC_HTML_DIR.mkdir(parents=True, exist_ok=True)
-        dst = PUBLIC_HTML_DIR / f"{basename}.html"
-        shutil.copy2(src_path, dst)
-        return f"{PUBLIC_HTML_URL}/{basename}.html"
-    except Exception as e:
-        log(f"  ERROR publishing html: {e}")
-        return None
+    """HTML is auto-served by GitHub Pages from the repo. Return the public URL."""
+    return f"{PUBLIC_HTML_URL}/{basename}.html"
 
 
 def check_alerts(env, state):
