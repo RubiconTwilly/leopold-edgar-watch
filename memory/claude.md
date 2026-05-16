@@ -114,8 +114,10 @@ Strict JSON, valid, no trailing commas. Stored as `<basename>.json`. This is for
 
 Plain text, Telegram-friendly (no markdown formatting other than basic line breaks). Casual but data-driven. No em dashes. No marketing hype. Reference the thesis bucket per ticker. Use the template below as a guide and fill in from the diff. Show the historical "book value over last 5 filings" trend the way Becker updates show portfolio value trend.
 
+Use Telegram Markdown for formatting (asterisks for bold). The title should be bold. Keep the rest plain text with line breaks.
+
 ```
-🔭 Leopold's <PERIOD> 13F Update 🔭
+*Leopold's Holdings Alert (13F Update)*
 
 <1 paragraph narrative. What changed, what stands out, what likely means given the thesis. 60-100 words. Plain language. Reference the largest single move by name. Reference the thesis bucket count (e.g. "all three new names sit in the power-and-datacenter bucket"). Mention if any off-thesis name appeared.>
 
@@ -161,7 +163,7 @@ Full filing: <EDGAR url>
 For 13D / 13G / NT-13F use a slimmer template:
 
 ```
-🚨 Leopold filed a <FORM_TYPE> 🚨
+*Leopold's Holdings Alert (<FORM_TYPE>)*
 
 <1 paragraph narrative explaining what this filing means in plain English. For 13D: emphasize activist intent and what Item 4 said about purpose. For 13G: explain it is a passive 5%+ stake. For NT-13F: explain it is a late-filing notice and the expected file date.>
 
@@ -178,7 +180,7 @@ Standalone HTML document. Dark theme matching Rubicon aesthetic. No external CSS
 
 Required structure:
 - `<!DOCTYPE html>` declaration
-- `<title>Leopold <PERIOD> 13F Update</title>`
+- `<title>Leopold's Holdings Alert</title>`
 - Inline `<style>` block: dark bg (#0a0a0a), off-white text (#e8e8e8), accent color (#22c55e for adds, #ef4444 for trims), monospace font for tables, max-width 720px centered
 - Hero section: title + filing metadata (period, filed date, accession no)
 - Narrative paragraph (same 60-100 words as message output)
@@ -216,7 +218,7 @@ th { color:#888; font-weight:500; text-transform:uppercase; font-size:11px; }
 </style>
 </head>
 <body>
-  <h1>🔭 Leopold's Q1 2026 13F Update</h1>
+  <h1>Leopold's Holdings Alert (13F Update)</h1>
   <div class="meta">Filed YYYY-MM-DD · Period ending YYYY-MM-DD · Accession 0002045724-26-XXXXXX</div>
   <div class="narrative">[same 60-100 word narrative as message output]</div>
 
