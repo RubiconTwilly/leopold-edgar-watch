@@ -1,0 +1,355 @@
+{
+  "filing": {
+    "accession_no": "0002045724-26-000002",
+    "filing_type": "13F-HR",
+    "filed_date": "2026-02-11",
+    "period_of_report": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2045724/000204572426000002/0002045724-26-000002-index.htm"
+  },
+  "summary": {
+    "total_value_usd": 5516758345,
+    "position_count": 29,
+    "top_5_concentration_pct": 0.60,
+    "net_value_delta_vs_prior": 1378389597
+  },
+  "changes": {
+    "new": [
+      {
+        "ticker": "BW",
+        "company": "Babcock & Wilcox Enterprises",
+        "value_usd": 8583726,
+        "shares": 1353900,
+        "position_type": "SH",
+        "pct_of_book": 0.0016,
+        "thesis": "Power generation -- small modular reactor (SMR) infrastructure. Long-cycle nuclear bet."
+      },
+      {
+        "ticker": "BITF",
+        "company": "Bitfarms Ltd",
+        "value_usd": 16208185,
+        "shares": 6897100,
+        "position_type": "SH",
+        "pct_of_book": 0.0029,
+        "thesis": "Bitcoin miners -- miner to HPC compute pivot."
+      },
+      {
+        "ticker": "CLSK",
+        "company": "CleanSpark Inc",
+        "value_usd": 16600848,
+        "shares": 1640400,
+        "position_type": "SH",
+        "pct_of_book": 0.0030,
+        "thesis": "Bitcoin miners -- miner to HPC compute pivot."
+      },
+      {
+        "ticker": "EQT",
+        "company": "EQT Corp",
+        "value_usd": 37520000,
+        "shares": 700000,
+        "position_type": "CALL",
+        "pct_of_book": 0.0068,
+        "thesis": "Natgas pickaxes -- EQT calls add leveraged upside to Marcellus thesis."
+      },
+      {
+        "ticker": "INFY",
+        "company": "Infosys Ltd",
+        "value_usd": 8910000,
+        "shares": 500000,
+        "position_type": "PUT",
+        "pct_of_book": 0.0016,
+        "thesis": "Shorts on disrupted businesses -- Indian IT consultancy faces AI disruption."
+      },
+      {
+        "ticker": "INTC",
+        "company": "Intel Corp",
+        "value_usd": 37,
+        "shares": 1,
+        "position_type": "SH",
+        "pct_of_book": 0.0000,
+        "thesis": "Semiconductors -- nominal 1-share placeholder; full Intel exposure held via calls."
+      },
+      {
+        "ticker": "KRC",
+        "company": "Kilroy Realty Corp",
+        "value_usd": 49616149,
+        "shares": 1327700,
+        "position_type": "SH",
+        "pct_of_book": 0.0090,
+        "thesis": "Real estate -- datacenter-adjacent REIT, real-estate layer of AI buildout."
+      },
+      {
+        "ticker": "LBRT",
+        "company": "Liberty Energy Inc",
+        "value_usd": 10470512,
+        "shares": 567200,
+        "position_type": "SH",
+        "pct_of_book": 0.0019,
+        "thesis": "Frac services (natgas pickaxes) -- hydraulic fracturing for Marcellus natgas."
+      },
+      {
+        "ticker": "PSIX",
+        "company": "Power Solutions Intl Inc",
+        "value_usd": 24701622,
+        "shares": 432300,
+        "position_type": "SH",
+        "pct_of_book": 0.0045,
+        "thesis": "Power generation -- on-site backup gensets for datacenters, microgrid play."
+      },
+      {
+        "ticker": "PUMP",
+        "company": "ProPetro Holding Corp",
+        "value_usd": 8656953,
+        "shares": 910300,
+        "position_type": "SH",
+        "pct_of_book": 0.0016,
+        "thesis": "Frac services (natgas pickaxes) -- hydraulic fracturing for Marcellus natgas."
+      },
+      {
+        "ticker": "WYFI",
+        "company": "WhiteFiber Inc",
+        "value_usd": 27770080,
+        "shares": 1757600,
+        "position_type": "SH",
+        "pct_of_book": 0.0050,
+        "thesis": "Compute -- HPC cloud / bare-metal GPU provider."
+      }
+    ],
+    "exited": [
+      {
+        "ticker": "VST",
+        "company": "Vistra Corp",
+        "position_type": "SH",
+        "last_value_usd": 252327327,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 4
+      },
+      {
+        "ticker": "NVDA",
+        "company": "Nvidia Corporation",
+        "position_type": "PUT",
+        "last_value_usd": 298528000,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "SMH",
+        "company": "VanEck Semiconductor ETF",
+        "position_type": "PUT",
+        "last_value_usd": 195816000,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 2
+      },
+      {
+        "ticker": "CRWV",
+        "company": "CoreWeave Inc",
+        "position_type": "PUT",
+        "last_value_usd": 191590000,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "GLXY",
+        "company": "Galaxy Digital Inc",
+        "position_type": "SH",
+        "last_value_usd": 92554875,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "AVGO",
+        "company": "Broadcom Inc",
+        "position_type": "PUT",
+        "last_value_usd": 75879300,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "TSM",
+        "company": "Taiwan Semiconductor Mfg",
+        "position_type": "PUT",
+        "last_value_usd": 75408300,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "MU",
+        "company": "Micron Technology Inc",
+        "position_type": "PUT",
+        "last_value_usd": 50196000,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "WDC",
+        "company": "Western Digital Corp",
+        "position_type": "SH",
+        "last_value_usd": 18347689,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "STX",
+        "company": "Seagate Technology Holdings",
+        "position_type": "SH",
+        "last_value_usd": 11464726,
+        "last_seen_quarter": "Q3_2025",
+        "quarters_held": 1
+      }
+    ],
+    "increased": [
+      {
+        "ticker": "BE",
+        "company": "Bloom Energy Corp",
+        "position_type": "SH",
+        "prior_shares": 3048002,
+        "current_shares": 10076022,
+        "delta_pct": 2.306,
+        "prior_value": 43890344,
+        "current_value": 875505552,
+        "thesis": "Power generation -- fuel cells for on-site datacenter power. Oracle 2.8GW deal template."
+      },
+      {
+        "ticker": "CRWV",
+        "company": "CoreWeave Inc",
+        "position_type": "CALL",
+        "prior_shares": 2314500,
+        "current_shares": 10814500,
+        "delta_pct": 3.672,
+        "prior_value": 316739325,
+        "current_value": 774426345,
+        "thesis": "Compute -- AI cloud GPU rental. Pure-play compute scarcity."
+      },
+      {
+        "ticker": "LITE",
+        "company": "Lumentum Holdings Inc",
+        "position_type": "SH",
+        "prior_shares": 417600,
+        "current_shares": 1298400,
+        "delta_pct": 2.109,
+        "prior_value": 67947696,
+        "current_value": 478577256,
+        "thesis": "Optics / fiber -- optical networking for AI interconnect."
+      },
+      {
+        "ticker": "SNDK",
+        "company": "SanDisk Corp",
+        "position_type": "SH",
+        "prior_shares": 115000,
+        "current_shares": 1054200,
+        "delta_pct": 8.167,
+        "prior_value": 12903000,
+        "current_value": 250245996,
+        "thesis": "Memory / storage -- flash memory exposure catches AI storage tailwind."
+      },
+      {
+        "ticker": "COHR",
+        "company": "Coherent Corp",
+        "position_type": "SH",
+        "prior_shares": 154400,
+        "current_shares": 480300,
+        "delta_pct": 2.111,
+        "prior_value": 16631968,
+        "current_value": 88648971,
+        "thesis": "Optics / fiber -- optical interconnect #2. Same 100GW compute needs optics thesis."
+      },
+      {
+        "ticker": "APLD",
+        "company": "Applied Digital Corp",
+        "position_type": "SH",
+        "prior_shares": 6064155,
+        "current_shares": 11339060,
+        "delta_pct": 0.870,
+        "prior_value": 139111716,
+        "current_value": 278033751,
+        "thesis": "Compute -- miner to HPC hybrid, bare-metal AI cloud."
+      },
+      {
+        "ticker": "EQT",
+        "company": "EQT Corp",
+        "position_type": "SH",
+        "prior_shares": 1217386,
+        "current_shares": 2482225,
+        "delta_pct": 1.039,
+        "prior_value": 66262320,
+        "current_value": 133047260,
+        "thesis": "Natgas pickaxes -- largest US gas producer, Marcellus shale power path."
+      },
+      {
+        "ticker": "BE",
+        "company": "Bloom Energy Corp",
+        "position_type": "CALL",
+        "prior_shares": 145800,
+        "current_shares": 408500,
+        "delta_pct": 1.802,
+        "prior_value": 12330306,
+        "current_value": 35494565,
+        "thesis": "Power generation -- call options adding leveraged upside to BE long thesis."
+      },
+      {
+        "ticker": "CIFR",
+        "company": "Cipher Mining Inc",
+        "position_type": "SH",
+        "prior_shares": 5740493,
+        "current_shares": 10469093,
+        "delta_pct": 0.824,
+        "prior_value": 72272807,
+        "current_value": 154523813,
+        "thesis": "Bitcoin miners -- miner to HPC compute pivot."
+      },
+      {
+        "ticker": "SEI",
+        "company": "Solaris Energy Infrastructure Inc",
+        "position_type": "SH",
+        "prior_shares": 1150300,
+        "current_shares": 1866500,
+        "delta_pct": 0.623,
+        "prior_value": 45977491,
+        "current_value": 85803005,
+        "thesis": "Power generation -- power infrastructure services for AI buildout."
+      },
+      {
+        "ticker": "TSEM",
+        "company": "Tower Semiconductor Ltd",
+        "position_type": "SH",
+        "prior_shares": 470600,
+        "current_shares": 723004,
+        "delta_pct": 0.537,
+        "prior_value": 34024380,
+        "current_value": 84895130,
+        "thesis": "Semiconductors -- foundry capacity beneficiary of China decoupling."
+      },
+      {
+        "ticker": "BTDR",
+        "company": "Bitdeer Technologies Group",
+        "position_type": "SH",
+        "prior_shares": 929600,
+        "current_shares": 1788000,
+        "delta_pct": 0.923,
+        "prior_value": 15886864,
+        "current_value": 20043480,
+        "thesis": "Bitcoin miners -- miner to HPC compute pivot."
+      },
+      {
+        "ticker": "RIOT",
+        "company": "Riot Platforms Inc",
+        "position_type": "SH",
+        "prior_shares": 3592699,
+        "current_shares": 6167700,
+        "delta_pct": 0.717,
+        "prior_value": 68369062,
+        "current_value": 78144759,
+        "thesis": "Bitcoin miners -- miner to HPC compute pivot."
+      }
+    ],
+    "decreased": [],
+    "flipped": []
+  },
+  "historical_book_value": {
+    "Q4_2024": 254813765,
+    "Q1_2025": 1005567727,
+    "Q2_2025": 2123023762,
+    "Q3_2025": 4138368748,
+    "Q4_2025": 5516758345
+  },
+  "off_thesis_flags": []
+}
