@@ -1,0 +1,65 @@
+*Leopold's Holdings Alert (13F Update -- Q1 2026)*
+
+Q1 2026 reported book more than doubled from $5.54B to $13.68B, but the headline is a regime change: over 60% of assets are now put options against the AI semiconductor complex. The five largest positions are all puts -- SMH ($2042.7M), NVDA ($1568.3M), ORCL ($1072.9M), AVGO ($1006.2M), AMD ($969.2M) -- and Intel was flipped from calls to puts. The physical infrastructure longs (BE, CORZ, IREN, SNDK) held or grew. Thesis in one line: long the watts and the wire, short the hype priced into the chip names.
+
+Reported book value over the last 5 filings:
+
+Q1_2025: $944M
+Q2_2025: $2.12B
+Q3_2025: $4.14B
+Q4_2025: $5.54B
+Q1_2026: $13.68B (today)
+
+=== NEW POSITIONS (23) ===
+- $SMH Puts (VanEck Semi ETF): $2,042.7M, 14.9% of book -- Shorts on disrupted businesses / basket short on AI semiconductor complex. Re-entered at 8.9x Q3 2025 scale.
+- $NVDA Puts (Nvidia): $1,568.3M, 11.5% of book -- Shorts on disrupted businesses. Re-entered at 5.6x Q3 2025 scale.
+- $ORCL Puts (Oracle): $1,072.9M, 7.8% of book -- Not in thesis.md. Enterprise software put. Flag for review.
+- $AVGO Puts (Broadcom): $1,006.2M, 7.4% of book -- Semiconductors. Previously exited as long Q4 2025, re-entered as large PUT = bearish reversal.
+- $AMD Puts (Advanced Micro Devices): $969.2M, 7.1% of book -- Not in thesis.md. AI GPU competitor put. Flag for review.
+- $MU Puts (Micron): $583.7M, 4.3% of book -- Memory/storage. MU Put re-entered + new MU Calls = straddle structure.
+- $TSM Puts (TSMC): $535.1M, 3.9% of book -- Semiconductors. Re-entered with full call+put+SH straddle after exiting Q4 2025.
+- $ASML Puts (ASML Holdings): $494.1M, 3.6% of book -- Not in thesis.md. Semiconductor equipment macro hedge. Flag for review.
+- $TSM Calls (TSMC): $354.8M, 2.6% of book -- Part of TSMC straddle.
+- $MU Calls (Micron): $422.3M, 3.1% of book -- Memory/storage. Bullish component of MU straddle.
+- $SNDK Calls (SanDisk): $388.8M, 2.8% of book -- Memory/storage. Call layer added on top of existing SNDK long.
+- $GLW Puts (Corning): $21.0M, 0.2% of book -- Not in thesis.md. Optics/fiber adjacent. Flag for review.
+- $HIVE (HIVE Digital Technologies): $6.4M, 0.05% of book -- Compute adjacent. Not in thesis.md. Flag for review.
+- $UNK_35834F (T1 Energy Inc): $43.9M, 0.3% of book -- Possible power generation bucket. CUSIP 35834F104. Human review recommended.
+- $UNK_778920 (Sharonai Holdings): $18.1M, 0.1% of book -- Unknown. Human review recommended.
+- (Nominal longs paired with above option positions: ASML SH, AMD SH, Corning SH, NVDA SH, MU SH, TSM SH, SMH SH, INTC SH)
+
+=== EXITED (9) ===
+- $LITE (Lumentum): last seen $478.6M, held 2 quarters -- Optics/fiber thesis exited.
+- $CIFR (Cipher Mining): last seen $154.5M, held 2 quarters
+- $EQT (EQT Corp): last seen $133.0M + $37.5M calls, held 4 quarters -- Natgas/power thesis exited.
+- $COHR (Coherent): last seen $88.6M, held 2 quarters -- Optics/fiber exited.
+- $TSEM (Tower Semi): last seen $84.9M, held 2 quarters
+- $KRC (Kilroy Realty): last seen $49.6M, held 1 quarter
+- $HUT (Hut 8): last seen $39.5M, held 2 quarters
+- $LBRT (Liberty Energy): last seen $10.5M, held 1 quarter
+
+=== MAJOR INCREASES (>50% shares) ===
+- $CLSK (CleanSpark): 1.6M -> 12.3M shares (+648%) -> $104.5M
+- $BITF (Bitfarms): 6.9M -> 19.9M shares (+188%) -> $38.8M
+- $BTDR (BitDeer): 1.8M -> 3.4M shares (+92%) -> $29.8M
+- $RIOT (Riot Platforms): 6.2M -> 11.5M shares (+87%) -> $142.2M
+
+=== MAJOR DECREASES (>50% shares) ===
+- $CRWV Calls (CoreWeave): 10.8M -> 1.8M shares (-83%) -> $140.6M (CRWV equity held roughly flat; call position massively trimmed)
+
+=== FLIPS (put <-> call on same ticker) ===
+- $INTC: CALLS (20.2M shares, $747M) -> PUTS (3.6M shares, $159M). Full conviction reversal on Intel from bull to bear. HIGH signal.
+
+=== Book shape ===
+Total reported value: $13.68B across 42 positions (29 distinct companies)
+Top 5 concentration: 48.7%
+Net long delta vs prior quarter: +$8.14B (book doubled, but majority is derivatives)
+Heaviest weight: $SMH Puts ($2.04B, 14.9% of book)
+Largest long equity: $BE (Bloom Energy shares, $878.7M, 6.4%)
+Total puts value: ~$8.5B (62% of book)
+Total calls value: ~$1.36B (10% of book)
+Total equity longs: ~$3.8B (28% of book)
+
+Reminder: 13F shows long equity + long calls + puts only. No cash, no shorts other than puts, no off-balance-sheet positions. Filing lags 45 days after quarter end. The massive put positions reported here represent notional market value of the puts as of 2026-03-31.
+
+Full filing: https://www.sec.gov/Archives/edgar/data/2045724/000204572426000008/0002045724-26-000008-index.htm

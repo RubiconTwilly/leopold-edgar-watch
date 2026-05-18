@@ -133,6 +133,10 @@
       "Q4_2025": {
         "shares": 11339060,
         "value": 278033751
+      },
+      "Q1_2026": {
+        "shares": 13478438,
+        "value": 319978118
       }
     },
     "first_seen": "Q1_2025",
@@ -183,6 +187,10 @@
       "Q4_2025": {
         "shares": 28756478,
         "value": 418694320
+      },
+      "Q1_2026": {
+        "shares": 26008473,
+        "value": 389086756
       }
     },
     "first_seen": "Q1_2025",
@@ -208,6 +216,10 @@
       "Q4_2025": {
         "shares": 6098812,
         "value": 436735927
+      },
+      "Q1_2026": {
+        "shares": 7177919,
+        "value": 556073385
       }
     },
     "first_seen": "Q1_2025",
@@ -262,6 +274,10 @@
       "Q4_2025": {
         "shares": 8700621,
         "value": 328622455
+      },
+      "Q1_2026": {
+        "shares": 11698835,
+        "value": 401036064
       }
     },
     "first_seen": "Q1_2025",
@@ -321,6 +337,10 @@
       "Q3_2025": {
         "shares": 600000,
         "value": 195816000
+      },
+      "Q1_2026": {
+        "shares": 5327900,
+        "value": 2042716860
       }
     },
     "first_seen": "Q2_2025",
@@ -338,6 +358,10 @@
       "Q4_2025": {
         "shares": 1788000,
         "value": 20043480
+      },
+      "Q1_2026": {
+        "shares": 3439450,
+        "value": 29751243
       }
     },
     "first_seen": "Q3_2025",
@@ -355,6 +379,10 @@
       "Q4_2025": {
         "shares": 10076022,
         "value": 875505552
+      },
+      "Q1_2026": {
+        "shares": 6485408,
+        "value": 878707930
       }
     },
     "first_seen": "Q3_2025",
@@ -376,6 +404,10 @@
       "Q4_2025": {
         "shares": 408500,
         "value": 35494565
+      },
+      "Q1_2026": {
+        "shares": 408500,
+        "value": 55347665
       }
     },
     "first_seen": "Q3_2025",
@@ -389,6 +421,10 @@
       "Q3_2025": {
         "shares": 230000,
         "value": 75879300
+      },
+      "Q1_2026": {
+        "shares": 3251100,
+        "value": 1006247961
       }
     },
     "first_seen": "Q3_2025",
@@ -457,6 +493,10 @@
       "Q4_2025": {
         "shares": 10814500,
         "value": 774426345
+      },
+      "Q1_2026": {
+        "shares": 1814500,
+        "value": 140569315
       }
     },
     "first_seen": "Q3_2025",
@@ -525,6 +565,10 @@
       "Q3_2025": {
         "shares": 300000,
         "value": 50196000
+      },
+      "Q1_2026": {
+        "shares": 1727700,
+        "value": 583686168
       }
     },
     "first_seen": "Q3_2025",
@@ -538,6 +582,10 @@
       "Q3_2025": {
         "shares": 1600000,
         "value": 298528000
+      },
+      "Q1_2026": {
+        "shares": 8992300,
+        "value": 1568257120
       }
     },
     "first_seen": "Q3_2025",
@@ -555,6 +603,10 @@
       "Q4_2025": {
         "shares": 6167700,
         "value": 78144759
+      },
+      "Q1_2026": {
+        "shares": 11502137,
+        "value": 142166413
       }
     },
     "first_seen": "Q3_2025",
@@ -572,6 +624,10 @@
       "Q4_2025": {
         "shares": 1054200,
         "value": 250245996
+      },
+      "Q1_2026": {
+        "shares": 1140119,
+        "value": 724363205
       }
     },
     "first_seen": "Q3_2025",
@@ -602,6 +658,10 @@
       "Q4_2025": {
         "shares": 1866500,
         "value": 85803005
+      },
+      "Q1_2026": {
+        "shares": 1105551,
+        "value": 62474687
       }
     },
     "first_seen": "Q3_2025",
@@ -615,6 +675,10 @@
       "Q3_2025": {
         "shares": 270000,
         "value": 75408300
+      },
+      "Q1_2026": {
+        "shares": 1583400,
+        "value": 535110030
       }
     },
     "first_seen": "Q3_2025",
@@ -658,6 +722,10 @@
       "Q4_2025": {
         "shares": 1353900,
         "value": 8583726
+      },
+      "Q1_2026": {
+        "shares": 1353900,
+        "value": 19888791
       }
     },
     "first_seen": "Q4_2025",
@@ -671,6 +739,10 @@
       "Q4_2025": {
         "shares": 6897100,
         "value": 16208185
+      },
+      "Q1_2026": {
+        "shares": 19875840,
+        "value": 38757888
       }
     },
     "first_seen": "Q4_2025",
@@ -684,6 +756,10 @@
       "Q4_2025": {
         "shares": 1640400,
         "value": 16600848
+      },
+      "Q1_2026": {
+        "shares": 12276139,
+        "value": 104469943
       }
     },
     "first_seen": "Q4_2025",
@@ -710,6 +786,10 @@
       "Q4_2025": {
         "shares": 500000,
         "value": 8910000
+      },
+      "Q1_2026": {
+        "shares": 500000,
+        "value": 6755000
       }
     },
     "first_seen": "Q4_2025",
@@ -723,6 +803,10 @@
       "Q4_2025": {
         "shares": 1,
         "value": 37
+      },
+      "Q1_2026": {
+        "shares": 202344,
+        "value": 8929441
       }
     },
     "first_seen": "Q4_2025",
@@ -766,6 +850,10 @@
       "Q4_2025": {
         "shares": 432300,
         "value": 24701622
+      },
+      "Q1_2026": {
+        "shares": 432300,
+        "value": 26318424
       }
     },
     "first_seen": "Q4_2025",
@@ -779,6 +867,10 @@
       "Q4_2025": {
         "shares": 910300,
         "value": 8656953
+      },
+      "Q1_2026": {
+        "shares": 910300,
+        "value": 13117423
       }
     },
     "first_seen": "Q4_2025",
@@ -792,9 +884,247 @@
       "Q4_2025": {
         "shares": 1757600,
         "value": 27770080
+      },
+      "Q1_2026": {
+        "shares": 1757600,
+        "value": 20933016
       }
     },
     "first_seen": "Q4_2025",
+    "cost_basis": null
+  },
+  "ASML|Put": {
+    "ticker": "ASML",
+    "pos_type": "Put",
+    "name": "ASML HLDG NV N Y REGISTRY",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 374100,
+        "value": 494122503
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "ASML|SH": {
+    "ticker": "ASML",
+    "pos_type": "SH",
+    "name": "ASML HLDG NV N Y REGISTRY",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 4633,
+        "value": 6119405
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "AMD|Put": {
+    "ticker": "AMD",
+    "pos_type": "Put",
+    "name": "ADVANCED MICRO DEVICES INC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 4764100,
+        "value": 969160863
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "AMD|SH": {
+    "ticker": "AMD",
+    "pos_type": "SH",
+    "name": "ADVANCED MICRO DEVICES INC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 99138,
+        "value": 20167643
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "GLW|SH": {
+    "ticker": "GLW",
+    "pos_type": "SH",
+    "name": "CORNING INC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 5283,
+        "value": 718330
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "GLW|Put": {
+    "ticker": "GLW",
+    "pos_type": "Put",
+    "name": "CORNING INC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 154600,
+        "value": 21020962
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "HIVE|SH": {
+    "ticker": "HIVE",
+    "pos_type": "SH",
+    "name": "HIVE DIGITAL TECHNOLOGIES LT",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 3391547,
+        "value": 6443939
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "INTC|Put": {
+    "ticker": "INTC",
+    "pos_type": "Put",
+    "name": "INTEL CORP",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 3605400,
+        "value": 159106302
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "MU|SH": {
+    "ticker": "MU",
+    "pos_type": "SH",
+    "name": "MICRON TECHNOLOGY INC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 17362,
+        "value": 5865578
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "MU|Call": {
+    "ticker": "MU",
+    "pos_type": "Call",
+    "name": "MICRON TECHNOLOGY INC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 1250000,
+        "value": 422300000
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "NVDA|SH": {
+    "ticker": "NVDA",
+    "pos_type": "SH",
+    "name": "NVIDIA CORPORATION",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 2855,
+        "value": 497912
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "ORCL|Put": {
+    "ticker": "ORCL",
+    "pos_type": "Put",
+    "name": "ORACLE CORP",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 7293000,
+        "value": 1072873230
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "SNDK|Call": {
+    "ticker": "SNDK",
+    "pos_type": "Call",
+    "name": "SANDISK CORP",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 611900,
+        "value": 388764546
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "UNK_778920|SH": {
+    "ticker": "UNK_778920",
+    "pos_type": "SH",
+    "name": "SHARONAI HOLDINGS INC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 796108,
+        "value": 18095535
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "UNK_35834F|SH": {
+    "ticker": "UNK_35834F",
+    "pos_type": "SH",
+    "name": "T1 ENERGY INC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 10000000,
+        "value": 43900000
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "TSM|SH": {
+    "ticker": "TSM",
+    "pos_type": "SH",
+    "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 22423,
+        "value": 7577853
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "TSM|Call": {
+    "ticker": "TSM",
+    "pos_type": "Call",
+    "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 1050000,
+        "value": 354847500
+      }
+    },
+    "first_seen": "Q1_2026",
+    "cost_basis": null
+  },
+  "SMH|SH": {
+    "ticker": "SMH",
+    "pos_type": "SH",
+    "name": "VANECK ETF TRUST",
+    "quarters": {
+      "Q1_2026": {
+        "shares": 26950,
+        "value": 10332630
+      }
+    },
+    "first_seen": "Q1_2026",
     "cost_basis": null
   }
 }
