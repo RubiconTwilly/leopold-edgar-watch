@@ -1,0 +1,72 @@
+*Leopold's Holdings Alert (13F Update)*
+
+Leopold's Q1 2026 13F marks a bold regime shift: while adding to physical AI longs (CLSK +648%, BITF +188%, RIOT +87%), the fund launched a ~$8.5B semiconductor put book -- SMH ($2.04B), NVDA ($1.57B), ORCL ($1.07B), AVGO ($1.01B), AMD ($969M), MU ($584M), TSM ($535M), and ASML ($494M) are all new short positions. Intel flipped from calls to puts, abandoning the fab-comeback thesis. Total book tripled from $5.5B to $13.7B. The thesis in one line: physical AI infrastructure is still cheap; the chip and cloud stocks pricing in the whole buildout are not.
+
+Reported book value over the last 5 filings:
+
+Q1 2025: $1,006M
+Q2 2025: $2,123M
+Q3 2025: $4,138M
+Q4 2025: $5,517M
+Q1 2026: $13,677M (today)
+
+Note: Q1-Q2 2025 totals may be understated as position tracking was being established.
+
+=== NEW POSITIONS (23) ===
+Put book (semiconductors + hyperscalers):
+* $SMH (VanEck Semi ETF): $2,042.7M Put, 14.9% of book - Shorts/hedges. Re-entered at 9x Q3 2025 size. AI chip basket short.
+* $NVDA (Nvidia): $1,568.3M Put, 11.5% of book - Shorts/hedges. Re-entered at 5.6x Q3 2025 size.
+* $ORCL (Oracle): $1,072.9M Put, 7.8% of book - Off-thesis. AI hyperscaler valuation bear bet.
+* $AVGO (Broadcom): $1,006.2M Put, 7.4% of book - Semiconductors/Shorts. Re-entered at 13x Q3 2025 size.
+* $AMD (AMD): $969.2M Put, 7.1% of book - Off-thesis. New short, extension of semiconductor bear book.
+* $MU (Micron): $583.7M Put + $422.3M Call, straddle - Memory/storage. Straddle betting on large Micron move in either direction.
+* $TSM (TSMC): $535.1M Put + $354.8M Call, straddle - Semiconductors. Geopolitical vol bet on Taiwan Semi.
+* $ASML (ASML Holding): $494.1M Put, 3.6% of book - Off-thesis. EUV equipment maker bubble bet.
+* $INTC (Intel): $159.1M Put, 1.2% of book - FLIP. See flipped section. Fab-comeback thesis abandoned.
+* $SNDK (SanDisk): $388.8M Call, 2.8% of book - Memory/storage. Call leverage layered on large SH position.
+
+New longs:
+* $TE (T1 Energy Inc): $43.9M, 0.3% of book - Power generation (flagged, verify company profile).
+* $GLW (Corning): $21.0M Put + $718K SH - Optics/fiber. Corning makes fiber optic cable for AI datacenters; put is likely a collar hedge.
+* $SHAZ (SharonAI Holdings): $18.1M, 0.1% of book - Off-thesis, flag for review.
+* $HIVE (HIVE Digital Tech): $6.4M, 0.05% of book - Compute / bitcoin miners to HPC. Canadian miner pivoting to AI.
+
+=== EXITED (10) ===
+* $LITE (Lumentum): last $478.6M, held 2 quarters
+* $INTC (Intel) Call: last $746.8M, held 4 quarters - FLIPPED to Put
+* $CIFR (Cipher Mining): last $154.5M, held 2 quarters
+* $EQT (EQT Corp) SH: last $133.0M, held 4 quarters
+* $COHR (Coherent): last $88.6M, held 2 quarters
+* $TSEM (Tower Semi): last $84.9M, held 2 quarters
+* $KRC (Kilroy Realty): last $49.6M, held 1 quarter
+* $HUT (Hut 8): last $39.5M, held 2 quarters
+* $EQT (EQT Corp) Call: last $37.5M, held 1 quarter
+* $LBRT (Liberty Energy): last $10.5M, held 1 quarter
+
+=== MAJOR INCREASES (>50% shares) ===
+* $CLSK: 1,640,400 -> 12,276,139 (+648%) -> $104.5M (Compute / miners to HPC)
+* $BITF: 6,897,100 -> 19,875,840 (+188%) -> $38.8M (Compute / miners to HPC)
+* $RIOT: 6,167,700 -> 11,502,137 (+87%) -> $142.2M (Compute / miners to HPC)
+* $BTDR: 1,788,000 -> 3,439,450 (+92%) -> $29.8M (Compute / miners to HPC)
+
+=== MAJOR DECREASES (>50% shares) ===
+* $CRWV Call: 10,814,500 -> 1,814,500 (-83%) -> $140.6M (CoreWeave calls trimmed; large SH position $556M maintained)
+
+=== FLIPS (put <-> call on same ticker) ===
+* $INTC: Call (20,237,400 SH, $746.8M) -> Put (3,605,400 SH, $159.1M)
+  Intel fab-comeback thesis held for 4 quarters (Q1-Q4 2025) now abandoned. Critical reversal.
+
+=== Book shape ===
+Total reported value: $13.68B across 42 positions
+Top 5 concentration: 48.7% (SMH Put, NVDA Put, ORCL Put, AVGO Put, AMD Put)
+Net long delta vs prior quarter: +$8.16B
+Heaviest weight: $SMH Put ($2,042.7M, 14.9% of book)
+Put book total: ~$8.46B | Call book: ~$1.36B | Long equity: ~$3.86B
+
+Key unchanged core positions:
+$BE $878.7M (power gen) | $SNDK $724.4M (memory) | $CRWV $556.1M (compute)
+$IREN $401.0M (miners) | $CORZ $389.1M (miners) | $APLD $320.0M (miners)
+
+Reminder: 13F shows long equity + long calls + puts only. No cash, no shorts other than puts, no off-balance-sheet positions. Filing lags 45 days after quarter end.
+
+Full filing: https://www.sec.gov/Archives/edgar/data/2045724/000204572426000008/0002045724-26-000008-index.htm

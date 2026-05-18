@@ -1,0 +1,457 @@
+{
+  "filing": {
+    "accession_no": "0002045724-26-000008",
+    "filing_type": "13F-HR",
+    "filed_date": "2026-05-18",
+    "period_of_report": "2026-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2045724/000204572426000008/0002045724-26-000008-index.htm"
+  },
+  "summary": {
+    "total_value_usd": 13676659578,
+    "position_count": 42,
+    "top_5_concentration_pct": 0.4869,
+    "net_value_delta_vs_prior": 8159901233,
+    "prior_quarter": "Q4_2025",
+    "prior_total_value_usd": 5516758345,
+    "book_history": {
+      "Q1_2025": 1005567727,
+      "Q2_2025": 2123023762,
+      "Q3_2025": 4138368748,
+      "Q4_2025": 5516758345,
+      "Q1_2026": 13676659578
+    }
+  },
+  "changes": {
+    "new": [
+      {
+        "ticker": "SMH",
+        "company": "VanEck Semiconductor ETF",
+        "cusip": "92189F676",
+        "value_usd": 2042716860,
+        "shares": 5327900,
+        "position_type": "Put",
+        "pct_of_book": 0.1493,
+        "thesis": "Shorts/hedges - semiconductor basket put. Was in Q2-Q3 2025, exited Q4 2025, re-entered at ~9x size. AI chip bubble hedge."
+      },
+      {
+        "ticker": "NVDA",
+        "company": "Nvidia Corporation",
+        "cusip": "67066G104",
+        "value_usd": 1568257120,
+        "shares": 8992300,
+        "position_type": "Put",
+        "pct_of_book": 0.1147,
+        "thesis": "Shorts/hedges - NVDA put. Was in Q3 2025, exited Q4 2025, re-entered at ~5.6x size. Betting against AI GPU valuation."
+      },
+      {
+        "ticker": "ORCL",
+        "company": "Oracle Corp",
+        "cusip": "68389X105",
+        "value_usd": 1072873230,
+        "shares": 7293000,
+        "position_type": "Put",
+        "pct_of_book": 0.0785,
+        "thesis": "Off-thesis. Oracle is a cloud/database hyperscaler not previously tracked. Put suggests AI hyperscaler valuation bubble bet."
+      },
+      {
+        "ticker": "AVGO",
+        "company": "Broadcom Inc",
+        "cusip": "11135F101",
+        "value_usd": 1006247961,
+        "shares": 3251100,
+        "position_type": "Put",
+        "pct_of_book": 0.0736,
+        "thesis": "Semiconductors/Shorts - AVGO put. Was in Q3 2025 (~$76M), exited Q4 2025, re-entered at ~13x size. AI silicon valuation bear."
+      },
+      {
+        "ticker": "AMD",
+        "company": "Advanced Micro Devices",
+        "cusip": "007903107",
+        "value_usd": 969160863,
+        "shares": 4764100,
+        "position_type": "Put",
+        "pct_of_book": 0.0709,
+        "thesis": "Off-thesis (new short). AMD GPU/CPU maker, not previously targeted. Extension of semiconductor-bubble short thesis."
+      },
+      {
+        "ticker": "MU",
+        "company": "Micron Technology",
+        "cusip": "595112103",
+        "value_usd": 583686168,
+        "shares": 1727700,
+        "position_type": "Put",
+        "pct_of_book": 0.0427,
+        "thesis": "Memory/storage - Micron put leg of a straddle (paired with MU|Call). Betting on large volatility in Micron."
+      },
+      {
+        "ticker": "TSM",
+        "company": "Taiwan Semiconductor Mfg",
+        "cusip": "874039100",
+        "value_usd": 535110030,
+        "shares": 1583400,
+        "position_type": "Put",
+        "pct_of_book": 0.0391,
+        "thesis": "Semiconductors - TSM put leg of a straddle (paired with TSM|Call). Was in Q3 2025, exited Q4 2025. Geopolitical vol bet."
+      },
+      {
+        "ticker": "ASML",
+        "company": "ASML Holding NV",
+        "cusip": "N07059210",
+        "value_usd": 494122503,
+        "shares": 374100,
+        "position_type": "Put",
+        "pct_of_book": 0.0361,
+        "thesis": "Off-thesis. ASML makes EUV lithography equipment. Put suggests semiconductor equipment maker bubble bet."
+      },
+      {
+        "ticker": "MU",
+        "company": "Micron Technology",
+        "cusip": "595112103",
+        "value_usd": 422300000,
+        "shares": 1250000,
+        "position_type": "Call",
+        "pct_of_book": 0.0309,
+        "thesis": "Memory/storage - Micron call leg of a straddle. Memory cycle catching AI tailwind; vol bet paired with put."
+      },
+      {
+        "ticker": "SNDK",
+        "company": "SanDisk Corp",
+        "cusip": "80004C200",
+        "value_usd": 388764546,
+        "shares": 611900,
+        "position_type": "Call",
+        "pct_of_book": 0.0284,
+        "thesis": "Memory/storage - SanDisk calls layered on top of large existing SH position. Adds leverage to existing memory thesis."
+      },
+      {
+        "ticker": "TSM",
+        "company": "Taiwan Semiconductor Mfg",
+        "cusip": "874039100",
+        "value_usd": 354847500,
+        "shares": 1050000,
+        "position_type": "Call",
+        "pct_of_book": 0.0260,
+        "thesis": "Semiconductors - TSM call leg of a straddle. Paired with put as a vol position on TSMC."
+      },
+      {
+        "ticker": "INTC",
+        "company": "Intel Corp",
+        "cusip": "458140100",
+        "value_usd": 159106302,
+        "shares": 3605400,
+        "position_type": "Put",
+        "pct_of_book": 0.0116,
+        "thesis": "Semiconductors - FLIP: Intel was a long-call fab-comeback bet; now a put. Thesis abandoned. See flipped section."
+      },
+      {
+        "ticker": "TE",
+        "company": "T1 Energy Inc",
+        "cusip": "35834F104",
+        "value_usd": 43900000,
+        "shares": 10000000,
+        "position_type": "SH",
+        "pct_of_book": 0.0032,
+        "thesis": "Power generation (flagged - T1 Energy Inc, ticker TE on NYSE. Power infrastructure company fits power generation bucket. Verify.)"
+      },
+      {
+        "ticker": "GLW",
+        "company": "Corning Inc",
+        "cusip": "219350105",
+        "value_usd": 21020962,
+        "shares": 154600,
+        "position_type": "Put",
+        "pct_of_book": 0.0015,
+        "thesis": "Optics/fiber (hedge) - Corning makes fiber optic cable. Put is unusual given optics thesis; may be a collar hedge on tiny long."
+      },
+      {
+        "ticker": "SHAZ",
+        "company": "SharonAI Holdings Inc",
+        "cusip": "778920306",
+        "value_usd": 18095535,
+        "shares": 796108,
+        "position_type": "SH",
+        "pct_of_book": 0.0013,
+        "thesis": "Off-thesis. SharonAI Holdings Inc - AI-adjacent company, not in thesis buckets. Human review recommended."
+      },
+      {
+        "ticker": "HIVE",
+        "company": "HIVE Digital Technologies",
+        "cusip": "433921103",
+        "value_usd": 6443939,
+        "shares": 3391547,
+        "position_type": "SH",
+        "pct_of_book": 0.0005,
+        "thesis": "Compute / bitcoin miners to HPC - HIVE Digital Technologies is a Canadian miner pivoting to AI compute."
+      },
+      {
+        "ticker": "AMD",
+        "company": "Advanced Micro Devices",
+        "cusip": "007903107",
+        "value_usd": 20167643,
+        "shares": 99138,
+        "position_type": "SH",
+        "pct_of_book": 0.0015,
+        "thesis": "Off-thesis. Tiny long accompanying large AMD put position (likely regulatory/technical long alongside derivative book)."
+      },
+      {
+        "ticker": "TSM",
+        "company": "Taiwan Semiconductor Mfg",
+        "cusip": "874039100",
+        "value_usd": 7577853,
+        "shares": 22423,
+        "position_type": "SH",
+        "pct_of_book": 0.0006,
+        "thesis": "Semiconductors - tiny long accompanying TSM straddle (standard derivative book artifact)."
+      },
+      {
+        "ticker": "SMH",
+        "company": "VanEck Semiconductor ETF",
+        "cusip": "92189F676",
+        "value_usd": 10332630,
+        "shares": 26950,
+        "position_type": "SH",
+        "pct_of_book": 0.0008,
+        "thesis": "Shorts/hedges - tiny long accompanying large SMH put position (standard artifact)."
+      },
+      {
+        "ticker": "MU",
+        "company": "Micron Technology",
+        "cusip": "595112103",
+        "value_usd": 5865578,
+        "shares": 17362,
+        "position_type": "SH",
+        "pct_of_book": 0.0004,
+        "thesis": "Memory/storage - tiny long accompanying MU straddle (standard derivative book artifact)."
+      },
+      {
+        "ticker": "NVDA",
+        "company": "Nvidia Corporation",
+        "cusip": "67066G104",
+        "value_usd": 497912,
+        "shares": 2855,
+        "position_type": "SH",
+        "pct_of_book": 0.00004,
+        "thesis": "Shorts/hedges - trivially tiny long alongside large NVDA put position (standard derivative artifact)."
+      },
+      {
+        "ticker": "ASML",
+        "company": "ASML Holding NV",
+        "cusip": "N07059210",
+        "value_usd": 6119405,
+        "shares": 4633,
+        "position_type": "SH",
+        "pct_of_book": 0.0004,
+        "thesis": "Off-thesis - tiny long accompanying ASML put (standard derivative book artifact)."
+      },
+      {
+        "ticker": "GLW",
+        "company": "Corning Inc",
+        "cusip": "219350105",
+        "value_usd": 718330,
+        "shares": 5283,
+        "position_type": "SH",
+        "pct_of_book": 0.0001,
+        "thesis": "Optics/fiber - Corning makes fiber optic cables for AI datacenter interconnect. Tiny position."
+      }
+    ],
+    "exited": [
+      {
+        "ticker": "LITE",
+        "company": "Lumentum Holdings",
+        "last_value_usd": 478577256,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 2
+      },
+      {
+        "ticker": "INTC",
+        "company": "Intel Corp",
+        "position_type": "Call",
+        "last_value_usd": 746760060,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 4,
+        "note": "FLIPPED to Put - see flipped section"
+      },
+      {
+        "ticker": "CIFR",
+        "company": "Cipher Mining Inc",
+        "last_value_usd": 154523813,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 2
+      },
+      {
+        "ticker": "EQT",
+        "company": "EQT Corp",
+        "position_type": "SH",
+        "last_value_usd": 133047260,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 4
+      },
+      {
+        "ticker": "COHR",
+        "company": "Coherent Corp",
+        "last_value_usd": 88648971,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 2
+      },
+      {
+        "ticker": "TSEM",
+        "company": "Tower Semiconductor",
+        "last_value_usd": 84895130,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 2
+      },
+      {
+        "ticker": "HUT",
+        "company": "Hut 8 Corp",
+        "last_value_usd": 39517588,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 2
+      },
+      {
+        "ticker": "EQT",
+        "company": "EQT Corp",
+        "position_type": "Call",
+        "last_value_usd": 37520000,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "KRC",
+        "company": "Kilroy Realty Corp",
+        "last_value_usd": 49616149,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 1
+      },
+      {
+        "ticker": "LBRT",
+        "company": "Liberty Energy Inc",
+        "last_value_usd": 10470512,
+        "last_seen_quarter": "Q4_2025",
+        "quarters_held": 1
+      }
+    ],
+    "increased": [
+      {
+        "ticker": "CLSK",
+        "company": "CleanSpark Inc",
+        "prior_shares": 1640400,
+        "current_shares": 12276139,
+        "delta_pct": 6.48,
+        "prior_value": 16600848,
+        "current_value": 104469943,
+        "pct_of_book": 0.0076,
+        "thesis": "Compute / bitcoin miners to HPC - CleanSpark. Massive add, +648% shares. Conviction increase in miner-to-HPC pivot."
+      },
+      {
+        "ticker": "BTDR",
+        "company": "Bitdeer Technologies Group",
+        "prior_shares": 1788000,
+        "current_shares": 3439450,
+        "delta_pct": 0.923,
+        "prior_value": 20043480,
+        "current_value": 29751243,
+        "pct_of_book": 0.0022,
+        "thesis": "Compute / bitcoin miners to HPC - Bitdeer. +92% shares."
+      },
+      {
+        "ticker": "RIOT",
+        "company": "Riot Platforms Inc",
+        "prior_shares": 6167700,
+        "current_shares": 11502137,
+        "delta_pct": 0.865,
+        "prior_value": 78144759,
+        "current_value": 142166413,
+        "pct_of_book": 0.0104,
+        "thesis": "Compute / bitcoin miners to HPC - Riot Platforms. +87% shares."
+      },
+      {
+        "ticker": "BITF",
+        "company": "Bitfarms Ltd",
+        "prior_shares": 6897100,
+        "current_shares": 19875840,
+        "delta_pct": 1.88,
+        "prior_value": 16208185,
+        "current_value": 38757888,
+        "pct_of_book": 0.0028,
+        "thesis": "Compute / bitcoin miners to HPC - Bitfarms. +188% shares."
+      },
+      {
+        "ticker": "INTC",
+        "company": "Intel Corp",
+        "position_type": "SH",
+        "prior_shares": 1,
+        "current_shares": 202344,
+        "delta_pct": 20233900.0,
+        "prior_value": 37,
+        "current_value": 8929441,
+        "pct_of_book": 0.0007,
+        "note": "Token long established alongside the new Put position. Effectively a new small SH position."
+      }
+    ],
+    "decreased": [
+      {
+        "ticker": "CRWV",
+        "company": "CoreWeave Inc",
+        "position_type": "Call",
+        "prior_shares": 10814500,
+        "current_shares": 1814500,
+        "delta_pct": -0.832,
+        "prior_value": 774426345,
+        "current_value": 140569315,
+        "pct_of_book": 0.0103,
+        "thesis": "Compute - CoreWeave call options trimmed 83%. Still holds large SH position ($556M). Taking some call leverage off."
+      }
+    ],
+    "flipped": [
+      {
+        "ticker": "INTC",
+        "company": "Intel Corp",
+        "prior_type": "Call",
+        "current_type": "Put",
+        "prior_shares": 20237400,
+        "current_shares": 3605400,
+        "prior_value_usd": 746760060,
+        "current_value_usd": 159106302,
+        "thesis": "Semiconductors - CRITICAL thesis reversal. Intel was held as calls since Q1 2025 as a fab-comeback + China-decoupling bet. Now flipped to puts. The 4-quarter conviction on Intel foundry is gone."
+      }
+    ]
+  },
+  "off_thesis_flags": [
+    {
+      "ticker": "ORCL",
+      "position_type": "Put",
+      "value_usd": 1072873230,
+      "reason": "Oracle is a cloud/database hyperscaler not in thesis buckets. Large $1.07B put. Likely extends the AI-hyperscaler-bubble short thesis alongside NVDA/AVGO/AMD."
+    },
+    {
+      "ticker": "AMD",
+      "position_type": "Put",
+      "value_usd": 969160863,
+      "reason": "AMD not previously tracked as a short target. $969M put is the 5th-largest position. Extension of semiconductor bear book."
+    },
+    {
+      "ticker": "ASML",
+      "position_type": "Put",
+      "value_usd": 494122503,
+      "reason": "ASML (lithography equipment) not in thesis. $494M put suggests semiconductor equipment maker bubble bet."
+    },
+    {
+      "ticker": "SHAZ",
+      "position_type": "SH",
+      "value_usd": 18095535,
+      "reason": "SharonAI Holdings Inc (SHAZ) - AI-adjacent company, no thesis bucket match. Human review recommended."
+    },
+    {
+      "ticker": "TE",
+      "position_type": "SH",
+      "value_usd": 43900000,
+      "reason": "T1 Energy Inc (TE) - likely fits power generation thesis but unverified. Verify company profile."
+    },
+    {
+      "ticker": "GLW",
+      "position_type": "Put",
+      "value_usd": 21020962,
+      "reason": "Corning is in optics/fiber thesis as a long candidate, but the put position is unusual. Possibly a collar hedge on the tiny GLW SH position."
+    }
+  ]
+}
