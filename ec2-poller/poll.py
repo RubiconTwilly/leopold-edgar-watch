@@ -25,6 +25,7 @@ Run modes:
 import json
 import os
 import re
+import socket
 import subprocess
 import sys
 import time
@@ -33,6 +34,10 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+
+# Belt-and-braces: urllib's per-request timeout sometimes leaks on partial reads.
+# A global default ensures the socket itself cannot hang forever.
+socket.setdefaulttimeout(25)
 
 # -------------------- config --------------------
 
@@ -449,12 +454,16 @@ def main():
         return
 
     log(f"daemon start, loop interval {POLL_INTERVAL_SECONDS}s")
+    tick_count = 0
     while True:
         state = load_state()
         try:
             tick(env, state)
         except Exception:
             log("UNCAUGHT in tick:\n" + traceback.format_exc())
+        tick_count += 1
+        if tick_count % 240 == 0:  # every ~hour at 15s interval
+            log(f"heartbeat: {tick_count} ticks completed, seen={len(state['seen_accessions'])}, dispatched={len(state['dispatched_alerts'])}")
         time.sleep(POLL_INTERVAL_SECONDS)
 
 
